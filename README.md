@@ -1,2 +1,4 @@
 # thales-geo.github.io
-THALES Geo Demos
+THALES Services / GeoNav online demos
+
+This project contains public geo-demonstrators website code.
